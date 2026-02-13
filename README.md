@@ -61,7 +61,7 @@ Currently preparing seriously for SDE roles with a structured DSA roadmap and re
 <h3 align="left">What I focus on</h3>
 
 <p>
-• Data Structures and Algorithms (Java, interview-oriented)  
+• Data Structures and Algorithms 
 <br/>
 • Backend development with Node.js and databases  
 <br/>
