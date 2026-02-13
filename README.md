@@ -8,8 +8,6 @@ Currently preparing seriously for SDE roles with a structured DSA roadmap and re
 
 <p align="center">
 🎓 Selected for Amazon ML Summer School 2025  
-<br/>
-📌 Actively practising NeetCode 150 and competitive programming in Java
 </p>
 
 ---
@@ -73,5 +71,4 @@ Currently preparing seriously for SDE roles with a structured DSA roadmap and re
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimat-srivats&show_icons=true&locale=en&layout=compact" />
 </p>
